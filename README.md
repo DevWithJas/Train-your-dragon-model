@@ -3,6 +3,10 @@
 ## Overview
 This Streamlit application allows users to train different machine learning models, including Linear Regression, Random Forest, CNN, and RNN, on their datasets. It provides a user-friendly interface to select models, tune hyperparameters, upload datasets, and visualize results.
 
+![image](https://github.com/CreateJas/Train-your-dragon-model/assets/91935368/b3e29d89-5070-4af6-ad79-96f11afdb194)
+![Uploading Screenshot (29).png…]()
+
+
 ## Features
 - Model Selection: Choose from Linear Regression, Random Forest, CNN, and RNN.
 - Hyperparameter Tuning: Customize settings for each model.
